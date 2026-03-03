@@ -1,25 +1,29 @@
 [![Charles' GitHub Banner](./assets/GitHubHeader.png)](https://github.com/ChaMagalhaes)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Charles%20Magalhaes-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-magalh%C3%A3es-0b978a3a9/)
+
 ---
 
 # Hey there 👋
-
-## 🇧🇷 PT-BR
-
-Olá! Eu sou o Charles, desenvolvedor back-end júnior.
-
-Gosto de criar soluções organizadas e estou sempre evoluindo com esforço e dedicação.
-Aqui a formalidade é na medida certa — porque criatividade + diversão também fazem parte do processo :D
-
----
 
 ## 🇺🇸 EN
 
 Hello! I'm Charles, a junior back-end developer.
 
-I enjoy building organized solutions and continuously improving through effort and dedication.
+I enjoy building organized solutions and continuously improving through effort and dedication.  
 Here, formality is kept at the right level — because creativity + fun are also part of the process :D
+
+## PT-BR
+
+<details>
+  <summary><b>Ver Conteúdo</b></summary>
+  <br>
+
+  Olá! Eu sou o Charles, desenvolvedor back-end júnior.
+
+  Gosto de criar soluções organizadas e estou sempre evoluindo com esforço e dedicação.  
+  Aqui a formalidade é na medida certa — porque criatividade + diversão também fazem parte do processo :D
+</details>
 
 ---
 
@@ -33,8 +37,6 @@ Here, formality is kept at the right level — because creativity + fun are also
 ![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/SQL-222222?style=flat)
-
----
 
 ## 🎨 Front-end Basics
 
@@ -58,32 +60,34 @@ Here, formality is kept at the right level — because creativity + fun are also
 
 ## 📚 Currently Learning
 
-📖 **Udemy Course**
-- Java Fundamentals  
-- Object-Oriented Programming (OOP)  
-- Functional Programming  
-- MySQL & MongoDB  
-- Spring Boot  
-- JPA & Hibernate  
-- JavaFX  
+<details>
+  <summary><b>View details</b></summary>
+  <br>
 
-🔎 **Current focus**
-- REST APIs  
-- Database modeling  
-- Clean Code  
+  📖 **Udemy Course**
+  - Java Fundamentals  
+  - Object-Oriented Programming (OOP)  
+  - Functional Programming  
+  - MySQL & MongoDB  
+  - Spring Boot  
+  - JPA & Hibernate  
+  - JavaFX  
+
+  🔎 **Current focus**
+  - REST APIs  
+  - Database modeling  
+  - Clean Code  
+</details>
 
 ---
 
 ## 🌐 Portfolio
 
-<div align="left" style="display: flex; align-items: center; gap: 16px;">
-  <div>
-    I'm building my portfolio website to showcase my projects.<br>
-    Coming soon 🚧 — work in progress.
-  </div>
-  <img src="./assets/banana-cat.gif" width="90" alt="Banana cat running">
-</div>
+I'm building my portfolio website to showcase my projects.<br>
+Coming soon 🚧 — work in progress.
 
-<br>
+<img src="./assets/banana-cat.gif" width="90" alt="Banana cat running">
+
+---
 
 > No matter what your ability is, effort is what ignites it.
